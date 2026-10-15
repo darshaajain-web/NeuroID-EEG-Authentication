@@ -1,0 +1,10 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/storage/uploads/
+backend/storage/plots/
+backend/storage/model.joblib
+backend/storage/users.json
+__pycache__/
+*.pyc
+.DS_Store
